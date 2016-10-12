@@ -4,10 +4,14 @@ JUI
 "JUI" is a "UI" texture pack for Minecraft 1.10.2 - most/all of the changes enhance the UI of Minecraft.
 
 Notable changes:
-HD font (Porivided via [Plast-Pack](https://github.com/Plastix/Plast-Pack)) (CC BY-NC-SA 4.0)
+
+- HD font (Provided by [Plast-Pack](https://github.com/Plastix/Plast-Pack) - CC BY-NC-SA 4.0)
+
 //todo:
-No Vignette!!
+- No Vignette!!
+
 Custom appearance for:
+
 - health
 - hunger
 - experience
