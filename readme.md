@@ -7,7 +7,7 @@ Notable changes:
 HD font (Porivided via [Plast-Pack](https://github.com/Plastix/Plast-Pack)) (CC BY-NC-SA 4.0)
 //todo:
 No Vignette!!
-Custom appearence for:
+Custom appearance for:
 - health
 - hunger
 - experience
