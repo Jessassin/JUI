@@ -1,7 +1,7 @@
 JUI
 ===
 
-"JUI" is a "UI" texture pack for Minecraft 1.10.2 - most/all of the changes enhance the UI of Minecraft.
+"JUI" is a "UI" texture pack for Minecraft 1.12.x - most/all of the changes enhance the UI of Minecraft.
 
 Notable changes:
 
